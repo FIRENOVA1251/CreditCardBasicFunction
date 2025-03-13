@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">NitraCard</string>
+
+    <!-- Card List -->
+    <string name="card_list_title">Cards</string>
+    <string name="card_list_add_card_btn">Add Card</string>
+    <string name="card_list_main_content">Add credit, debit or store cards to make sure payments in apps.</string>
+    <string name="card_list_add_first_card">Add Your First Card</string>
+    <string name="card_list_masked_card_number">**** **** **** %1$s</string>
+
+
+    <!-- Add Card -->
+    <string name="add_card_title">New Card</string>
+    <string name="add_card">Card Details</string>
+    <string name="add_card_card_name_title">Card Name*</string>
+    <string name="add_card_card_name_label">Card Name</string>
+    <string name="add_card_card_number_title">Card Number*</string>
+    <string name="add_card_card_number_label">0000 0000 0000 0000</string>
+    <string name="add_card_name_of_card_title">Name on Card*</string>
+    <string name="add_card_name_of_card_label">Name on Card</string>
+    <string name="add_card_expiry_date_title">Exp Date*</string>
+    <string name="add_card_year_label">Year</string>
+    <string name="add_card_month_label">Month</string>
+    <string name="add_card_cvv_title">CVV*</string>
+    <string name="add_card_cvv_label">CVV Code</string>
+    <string name="add_card_btn">Add Card</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_add_card_successfully">Card Added Successfully</string>
+    <string name="toast_add_card_invalid_name">Invalid Card Name</string>
+    <string name="toast_add_card_invalid_holder_name">Invalid Name of Card</string>
+    <string name="toast_add_card_invalid_card_number">Invalid Card Number</string>
+    <string name="toast_add_card_invalid_expiry_date">Invalid Exp Date</string>
+    <string name="toast_add_card_invalid_cvv">Invalid CVV code</string>
+
+
+    <!-- Card Detail -->
+    <string name="card_detail_title">Card Details</string>
+    <string name="card_detail_card_number_title">Card Number</string>
+    <string name="card_detail_card_expiry_date_title">Exp Date </string>
+    <string name="card_detail_card_cvv_title">CVV </string>
+    <string name="card_detail_card_not_found">Card not found</string>
+    <string name="card_detail_delete_card">Delete Card</string>
+
+
+    <!-- Content Descriptions -->
+    <string name="desc_card_list">Card Details</string>
+    <string name="desc_back">back</string>
+    <string name="desc_card_image">Card Image</string>
+    <string name="desc_nitra_logo">Nitra Logo</string>
+    <string name="desc_visa_logo">Visa Logo</string>
+    <string name="desc_drop_down_arrow">DropDown Arrow</string>
+    <string name="desc_copy_detail">Copy: %1$s</string>
+
+    <!-- Delete Dialog -->
+    <string name="dialog_delete_card_title">Delete Card</string>
+    <string name="dialog_delete_card_message">Are you sure you want to delete this card\'s info?</string>
+    <string name="dialog_delete_confirm">Confirm</string>
+    <string name="dialog_delete_cancel">Cancel</string>
+    <string name="card_deleted_success">Delete Card successfully.</string>
+
+</resources>
